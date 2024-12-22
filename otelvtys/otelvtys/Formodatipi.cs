@@ -73,7 +73,7 @@ namespace otelvtys
 
             if (islembasarili)
             {
-                NpgsqlCommand sil = new NpgsqlCommand("DELETE FROM oda_tipi WHERE odatip_id=@p1", baglanti);
+                NpgsqlCommand sil = new NpgsqlCommand("DELETE FROM oda_tipi WHERE odatipi_id=@p1", baglanti);
                 sil.Parameters.AddWithValue("@p1", odatip_id);
                 sil.ExecuteNonQuery();
                 MessageBox.Show("Oda tipi başarıyla silindi.");
@@ -110,7 +110,7 @@ namespace otelvtys
 
             if (islembasarili)
             {
-                NpgsqlCommand guncelle = new NpgsqlCommand("UPDATE oda_tipi SET tip_ismi=@p2, kapasite=@p3 WHERE odatip_id=@p1", baglanti);
+                NpgsqlCommand guncelle = new NpgsqlCommand("UPDATE oda_tipi SET tip_ismi=@p2, kapasite=@p3 WHERE odatipi_id=@p1", baglanti);
                 guncelle.Parameters.AddWithValue("@p1", odatip_id);
                 guncelle.Parameters.AddWithValue("@p2", tipismitextBox.Text);
                 guncelle.Parameters.AddWithValue("@p3", kapasite);
@@ -135,7 +135,7 @@ namespace otelvtys
             int odatip_id;
             if (int.TryParse(odatipiidtextBox.Text, out odatip_id))
             {
-                sorgu += " AND odatip_id = @p1";
+                sorgu += " AND odatipi_id = @p1";
                 parameters.Add(new NpgsqlParameter("@p1", odatip_id));
             }
 

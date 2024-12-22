@@ -94,9 +94,9 @@
             this.talepiidlabel.AutoSize = true;
             this.talepiidlabel.Location = new System.Drawing.Point(524, 42);
             this.talepiidlabel.Name = "talepiidlabel";
-            this.talepiidlabel.Size = new System.Drawing.Size(37, 16);
+            this.talepiidlabel.Size = new System.Drawing.Size(51, 16);
             this.talepiidlabel.TabIndex = 163;
-            this.talepiidlabel.Text = "talep";
+            this.talepiidlabel.Text = "talep id";
             // 
             // arabutton
             // 

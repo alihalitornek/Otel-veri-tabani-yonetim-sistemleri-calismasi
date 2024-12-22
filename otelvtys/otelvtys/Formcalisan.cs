@@ -68,7 +68,7 @@ namespace otelvtys
             {
                 NpgsqlCommand ekle = new NpgsqlCommand("INSERT INTO çalışan (kişi_id, kimlik_no, pozisyon) VALUES (@p1, @p2, @p3)", baglanti);
                 ekle.Parameters.AddWithValue("@p1", kisi_id);
-                ekle.Parameters.AddWithValue("@p2", kimliknotextBox.Text);
+                ekle.Parameters.AddWithValue("@p2", long.Parse(kimliknotextBox.Text));
                 ekle.Parameters.AddWithValue("@p3", pozisyontextBox.Text);
                 ekle.ExecuteNonQuery();
                 MessageBox.Show("Çalışan başarıyla eklendi.");
@@ -130,7 +130,7 @@ namespace otelvtys
             {
                 NpgsqlCommand guncelle = new NpgsqlCommand("UPDATE çalışan SET kimlik_no=@p2, pozisyon=@p3 WHERE kişi_id=@p1", baglanti);
                 guncelle.Parameters.AddWithValue("@p1", kisi_id);
-                guncelle.Parameters.AddWithValue("@p2", kimliknotextBox.Text);
+                guncelle.Parameters.AddWithValue("@p2", long.Parse(kimliknotextBox.Text));
                 guncelle.Parameters.AddWithValue("@p3", pozisyontextBox.Text);
                 guncelle.ExecuteNonQuery();
                 MessageBox.Show("Çalışan bilgileri başarıyla güncellendi.");
@@ -157,11 +157,11 @@ namespace otelvtys
                 parameters.Add(new NpgsqlParameter("@p1", kisi_id));
             }
 
-            if (!string.IsNullOrEmpty(kimliknotextBox.Text))
+            int kimlikNo;
+            if (int.TryParse(kimliknotextBox.Text, out kimlikNo))
             {
-                // Kimlik no metinsel bir alan, ILIKE ile kısmi arama yapıyoruz.
-                sorgu += " AND kimlik_no ILIKE @p2";
-                parameters.Add(new NpgsqlParameter("@p2", "%" + kimliknotextBox.Text + "%"));
+                sorgu += " AND kimlik_no = @p2";
+                parameters.Add(new NpgsqlParameter("@p2", kimlikNo));
             }
 
             if (!string.IsNullOrEmpty(pozisyontextBox.Text))

@@ -41,7 +41,7 @@ namespace otelvtys
 
             if (islembasarili)
             {
-                NpgsqlCommand ekle = new NpgsqlCommand("INSERT INTO imkanlar (imkan_ismi) VALUES (@p1)", baglanti);
+                NpgsqlCommand ekle = new NpgsqlCommand("INSERT INTO imkanlar (imkan_isimi) VALUES (@p1)", baglanti);
                 ekle.Parameters.AddWithValue("@p1", imkanismitextBox.Text);
                 ekle.ExecuteNonQuery();
                 MessageBox.Show("İmkan başarıyla eklendi.");
@@ -95,7 +95,7 @@ namespace otelvtys
 
             if (islembasarili)
             {
-                NpgsqlCommand guncelle = new NpgsqlCommand("UPDATE imkanlar SET imkan_ismi=@p2 WHERE imkan_id=@p1", baglanti);
+                NpgsqlCommand guncelle = new NpgsqlCommand("UPDATE imkanlar SET imkan_isimi=@p2 WHERE imkan_id=@p1", baglanti);
                 guncelle.Parameters.AddWithValue("@p1", imkan_id);
                 guncelle.Parameters.AddWithValue("@p2", imkanismitextBox.Text);
                 guncelle.ExecuteNonQuery();
@@ -125,7 +125,7 @@ namespace otelvtys
 
             if (!string.IsNullOrEmpty(imkanismitextBox.Text))
             {
-                sorgu += " AND imkan_ismi ILIKE @p2";
+                sorgu += " AND imkan_isimi ILIKE @p2";
                 parameters.Add(new NpgsqlParameter("@p2", "%" + imkanismitextBox.Text + "%"));
             }
 

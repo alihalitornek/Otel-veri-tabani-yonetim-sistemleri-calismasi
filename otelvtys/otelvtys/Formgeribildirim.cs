@@ -214,7 +214,7 @@ namespace otelvtys
         private void Formgeribildirim_Load(object sender, EventArgs e)
         {
             baglanti.Open();
-            NpgsqlDataAdapter dataadapter = new NpgsqlDataAdapter("select * from kişi", baglanti);
+            NpgsqlDataAdapter dataadapter = new NpgsqlDataAdapter("select * from müşteri", baglanti);
             DataTable datatable = new DataTable();
             dataadapter.Fill(datatable);
             kisiidcomboBox.DisplayMember = "kişi_id";

@@ -71,9 +71,9 @@
             this.odatipiidlabel.AutoSize = true;
             this.odatipiidlabel.Location = new System.Drawing.Point(524, 42);
             this.odatipiidlabel.Name = "odatipiidlabel";
-            this.odatipiidlabel.Size = new System.Drawing.Size(51, 16);
+            this.odatipiidlabel.Size = new System.Drawing.Size(65, 16);
             this.odatipiidlabel.TabIndex = 179;
-            this.odatipiidlabel.Text = "oda tipi";
+            this.odatipiidlabel.Text = "oda tipi id";
             // 
             // arabutton
             // 

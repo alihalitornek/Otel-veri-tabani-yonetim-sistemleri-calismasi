@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\aliha\\source\\repos\\otelvtys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formimkanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formimkanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formodatipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formodatipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formodatipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formodatipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formcalisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formcalisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formbakimtalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formbakimtalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formgeribildirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formgeribildirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|c:\\users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formpromosyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +59,12 @@
       "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|c:\\users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formcalisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formcalisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -59,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formgeribildirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formgeribildirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formgeribildirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -79,32 +99,8 @@
       "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formbakimtalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formbakimtalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formbakimtalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formbakimtalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formodatipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formodatipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formodatipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formodatipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formimkanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formimkanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\formimkanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|solutionrelative:otelvtys\\formimkanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EBEAD43-F6CC-4062-8EBA-5EAF7D7CF314}|otelvtys\\otelvtys.csproj|C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -126,86 +122,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Form1.cs",
               "RelativeDocumentMoniker": "otelvtys\\Form1.cs",
               "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Form1.cs",
               "RelativeToolTip": "otelvtys\\Form1.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAArwFEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAADgv6IAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T13:34:42.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Formrezervasyon.cs",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formrezervasyon.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formrezervasyon.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formrezervasyon.cs",
-              "RelativeToolTip": "otelvtys\\Formrezervasyon.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAIA8wGQAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Formgeribildirim.cs",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formgeribildirim.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formgeribildirim.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formgeribildirim.cs",
+              "RelativeToolTip": "otelvtys\\Formgeribildirim.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAANgAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T17:06:26.244Z",
+              "WhenOpened": "2024-12-07T14:33:45.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
               "Title": "Formbakimtalebi.cs",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formbakimtalebi.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formbakimtalebi.cs",
               "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formbakimtalebi.cs",
               "RelativeToolTip": "otelvtys\\Formbakimtalebi.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAkwMgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:13:34.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Formrezervasyon.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formrezervasyon.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formrezervasyon.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formrezervasyon.cs [Tasar\u0131m]",
-              "RelativeToolTip": "otelvtys\\Formrezervasyon.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T13:50:52.413Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Formoda.cs",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formoda.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formoda.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formoda.cs",
-              "RelativeToolTip": "otelvtys\\Formoda.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAUwBgAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:16:40.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Formetkinlik.cs",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formetkinlik.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formetkinlik.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formetkinlik.cs",
-              "RelativeToolTip": "otelvtys\\Formetkinlik.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAswJsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T20:14:56.919Z",
+              "WhenOpened": "2024-12-07T19:13:34.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Formpromosyon.cs",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formpromosyon.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formpromosyon.cs",
@@ -213,77 +173,154 @@
               "RelativeToolTip": "otelvtys\\Formpromosyon.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAArwDoAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:05:27.763Z",
+              "WhenOpened": "2024-12-07T17:05:27.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formodatipi.cs",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formodatipi.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formodatipi.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formodatipi.cs",
+              "RelativeToolTip": "otelvtys\\Formodatipi.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAArwIkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:33:40.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formoda.cs",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formoda.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formoda.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formoda.cs",
+              "RelativeToolTip": "otelvtys\\Formoda.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAArwHAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:16:40.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Formetkinlik.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formetkinlik.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formetkinlik.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formetkinlik.cs [Tasar\u0131m]",
-              "RelativeToolTip": "otelvtys\\Formetkinlik.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T20:06:36.295Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Formmain.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmain.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formmain.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmain.cs [Tasar\u0131m]",
-              "RelativeToolTip": "otelvtys\\Formmain.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T19:04:31.327Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Formoda.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formoda.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formoda.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formoda.cs [Tasar\u0131m]",
-              "RelativeToolTip": "otelvtys\\Formoda.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T17:16:11.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Formbakimtalebi.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formbakimtalebi.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formbakimtalebi.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formbakimtalebi.cs [Tasar\u0131m]",
-              "RelativeToolTip": "otelvtys\\Formbakimtalebi.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:06:39.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "Formodatipi.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formodatipi.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formodatipi.cs",
               "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formodatipi.cs [Tasar\u0131m]",
               "RelativeToolTip": "otelvtys\\Formodatipi.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:29:59.176Z"
+              "WhenOpened": "2024-12-07T19:29:59.176Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formimkanlar.cs",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formimkanlar.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formimkanlar.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formimkanlar.cs",
+              "RelativeToolTip": "otelvtys\\Formimkanlar.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAEwH8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:45:21.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Formrezervasyon.cs",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formrezervasyon.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formrezervasyon.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formrezervasyon.cs",
+              "RelativeToolTip": "otelvtys\\Formrezervasyon.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAswO4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:06:26.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Formcalisan.cs",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formcalisan.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formcalisan.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formcalisan.cs",
+              "RelativeToolTip": "otelvtys\\Formcalisan.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAvwJ8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:45:00.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Formmusteri.cs",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmusteri.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formmusteri.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmusteri.cs",
+              "RelativeToolTip": "otelvtys\\Formmusteri.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAArwEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:09:41.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Formetkinlik.cs",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formetkinlik.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formetkinlik.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formetkinlik.cs",
+              "RelativeToolTip": "otelvtys\\Formetkinlik.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:14:56.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Formrezervasyon.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formrezervasyon.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formrezervasyon.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formrezervasyon.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otelvtys\\Formrezervasyon.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:50:52.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Formetkinlik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formetkinlik.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formetkinlik.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formetkinlik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otelvtys\\Formetkinlik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:06:36.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Formmain.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmain.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formmain.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmain.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otelvtys\\Formmain.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:04:31.327Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Formodatipi.cs",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formodatipi.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formodatipi.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formodatipi.cs",
-              "RelativeToolTip": "otelvtys\\Formodatipi.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwF4AAABAAAAAAAAAAA==",
+              "Title": "Formoda.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formoda.cs",
+              "RelativeDocumentMoniker": "otelvtys\\Formoda.cs",
+              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formoda.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otelvtys\\Formoda.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:33:40.351Z"
+              "WhenOpened": "2024-12-07T17:16:11.746Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
@@ -294,35 +331,23 @@
               "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formimkanlar.cs [Tasar\u0131m]",
               "RelativeToolTip": "otelvtys\\Formimkanlar.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:42:54.614Z"
+              "WhenOpened": "2024-12-07T19:42:54.614Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Formimkanlar.cs",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formimkanlar.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formimkanlar.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formimkanlar.cs",
-              "RelativeToolTip": "otelvtys\\Formimkanlar.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwIMAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:45:21.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Formpromosyon.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formpromosyon.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formpromosyon.cs",
               "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formpromosyon.cs [Tasar\u0131m]",
               "RelativeToolTip": "otelvtys\\Formpromosyon.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T16:56:22.96Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-12-07T16:56:22.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Formfatura.cs",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formfatura.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formfatura.cs",
@@ -334,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Formfatura.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formfatura.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formfatura.cs",
@@ -345,30 +370,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Formgeribildirim.cs",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formgeribildirim.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formgeribildirim.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formgeribildirim.cs",
-              "RelativeToolTip": "otelvtys\\Formgeribildirim.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAqwNsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T14:33:45.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Formgeribildirim.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formgeribildirim.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formgeribildirim.cs",
               "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formgeribildirim.cs [Tasar\u0131m]",
               "RelativeToolTip": "otelvtys\\Formgeribildirim.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T14:24:10.452Z"
+              "WhenOpened": "2024-12-07T14:24:10.452Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Formhizmet.cs",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formhizmet.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formhizmet.cs",
@@ -380,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Formhizmet.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formhizmet.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formhizmet.cs",
@@ -391,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Formmain.cs",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmain.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formmain.cs",
@@ -399,58 +413,35 @@
               "RelativeToolTip": "otelvtys\\Formmain.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAA/wF4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T19:23:26.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T19:23:26.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Formcalisan.cs",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formcalisan.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formcalisan.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formcalisan.cs",
-              "RelativeToolTip": "otelvtys\\Formcalisan.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwLUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:45:00.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Formcalisan.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formcalisan.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formcalisan.cs",
               "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formcalisan.cs [Tasar\u0131m]",
               "RelativeToolTip": "otelvtys\\Formcalisan.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:42:21.297Z"
+              "WhenOpened": "2024-12-06T18:42:21.297Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Formmusteri.cs",
-              "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmusteri.cs",
-              "RelativeDocumentMoniker": "otelvtys\\Formmusteri.cs",
-              "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmusteri.cs",
-              "RelativeToolTip": "otelvtys\\Formmusteri.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwJ8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T14:09:41.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Formmusteri.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmusteri.cs",
               "RelativeDocumentMoniker": "otelvtys\\Formmusteri.cs",
               "ToolTip": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Formmusteri.cs [Tasar\u0131m]",
               "RelativeToolTip": "otelvtys\\Formmusteri.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:31:26.282Z"
+              "WhenOpened": "2024-12-06T13:31:26.282Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Program.cs",
               "RelativeDocumentMoniker": "otelvtys\\Program.cs",
@@ -462,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\aliha\\source\\repos\\otelvtys\\otelvtys\\Form1.cs",
               "RelativeDocumentMoniker": "otelvtys\\Form1.cs",

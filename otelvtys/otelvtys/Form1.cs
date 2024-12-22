@@ -118,8 +118,8 @@ namespace otelvtys
             baglanti.Open();
             bool islembasarili = true;
 
-            int kisi_id, telefon;
-
+            int kisi_id;
+            long telefon;
             if (!int.TryParse(kisiidtextBox.Text, out kisi_id))
             {
                 MessageBox.Show("Geçerli bir kişi_id girin!");
@@ -148,7 +148,7 @@ namespace otelvtys
                 islembasarili = false;
             }
 
-            if (!int.TryParse(telefontextBox.Text, out telefon))
+            if (!long.TryParse(telefontextBox.Text, out telefon))
             {
                 MessageBox.Show("Geçerli bir telefon girin!");
                 islembasarili = false;
